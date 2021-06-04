@@ -107,6 +107,11 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Junior People & Culture Partner](https://checkfront.bamboohr.com/jobs/view.php?id=127)
 * [People & Culture Partner](https://checkfront.bamboohr.com/jobs/view.php?id=125)
 
+#### [Clik2Pay](https://clik2pay.com/)
+* [Senior Software Developer]()
+* [Junior Software Developer]()
+* [QA Professional]()
+
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Game Systems Designer](http://www.codenameentertainment.com/?page=jobs)
 * [2D Artist](http://www.codenameentertainment.com/?page=jobs)
