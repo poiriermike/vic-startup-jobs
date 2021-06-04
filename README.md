@@ -113,6 +113,11 @@ Keep in mind that companies may have job postings on their own site that are not
 * [Jr. Solution Consultant (Mat Leave)](https://checkfront.bamboohr.com/jobs/view.php?id=113)
 * [Talent Acquisition Specialist](https://checkfront.bamboohr.com/jobs/view.php?id=108)
 
+#### [Clik2Pay](https://clik2pay.com/)
+* [Senior Software Developer]()
+* [Junior Software Developer]()
+* [QA Professional]()
+
 #### [Codename Entertainment](http://www.codenameentertainment.com/) (👩‍💻 Co-Op / Intern Friendly)
 * [Game Systems Designer](http://www.codenameentertainment.com/?page=jobs)
 
